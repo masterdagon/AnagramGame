@@ -31,10 +31,15 @@
 
 package com.toy.anagrams.lib;
 
+//blablabla
+
+
 /**
  * Implementation of the logic for the Anagram Game application.
  */
 final class StaticWordLibrary extends WordLibrary {
+    
+    int a = 123;
 
     private static final String[] WORD_LIST = {
         "abstraction",
